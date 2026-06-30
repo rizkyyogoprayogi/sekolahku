@@ -28,7 +28,6 @@ Note : Aplikasi ini akan terus saya update.<br>
 Jika ada pertanyaan bisa kontak aku di email ini <b>andridesmana29@outlook.com</b>
 </p>
 
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
